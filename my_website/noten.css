@@ -1,0 +1,15 @@
+img {
+    width: 50%;
+}
+
+div.images div {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+
+
+h1 {
+    margin: 0.25em 0 0;
+}

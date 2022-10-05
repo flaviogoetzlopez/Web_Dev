@@ -1,0 +1,52 @@
+body {
+    /*background-image:url("cool_photos/Arduino.jpeg");*/
+    /*background-color:rgb(188, 108, 108);*/
+    padding-bottom: 0 !important;
+}
+
+footer {
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+
+h5 {
+    font-size: 1.4em;
+    margin: 5px 0 5px;
+}
+
+.sport {
+    text-align: center;
+    font-size: 20px;
+}
+
+h2{
+    display: none;
+}
+
+p {
+    text-align: center;
+}
+
+/* Images  */
+div.images div {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    
+}
+
+
+div.images div {
+    padding-bottom:1em;
+}
+
+img {
+    width: 50%;
+}
+
+strong {
+    font-size:1.5em;
+}
